@@ -1,0 +1,18 @@
+{
+  "name": "worknotes",
+  "version": "1.0.0",
+  "description": "Super Aewsome",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs", 
+    "docs:build": "vitepress build docs", 
+    "docs:serve": "vitepress serve docs", 
+    "test": "testo"
+
+  },
+  "author": "TDogg",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.30"
+  }
+}
